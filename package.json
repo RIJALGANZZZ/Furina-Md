@@ -13,17 +13,17 @@
     "update": "npm update"
   },
   "keywords": [
-    "tixo-md",
+    "furina-md",
     "baileys-md"
   ],
-  "homepage": "https://github.com/Tiooxy/Tixo-md",
-  "author": "Tio",
+  "homepage": "https://github.com/RIJALGANZZZ/Furina-Md",
+  "author": "Rijalganzz",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tiooxy/Tixo-md.git"
+    "url": "git+https://github.com/RIJALGANZZZ/Furina-Md.git"
   },
   "bugs": {
-    "url": "https://github.com/Tiooxy/Tixo-md/issues"
+    "url": "https://github.com/RIJALGANZZZ/Furina-Md/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
